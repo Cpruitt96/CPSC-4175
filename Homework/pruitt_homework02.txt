@@ -1,0 +1,28 @@
+1. Determinng the requirements for the software
+
+2. What the client needs is the kind of software they need and what it shoud do in general, while whhat
+    the software needs to do is specifically what it needs to do to meet the client's needs.
+	
+3. They have to adapt to different environments and requirements
+
+4. Interviewing is the main technique for determining requirements, but it might not be effective becuase
+	you might not get the answers you need. Sending a questionnaire is another technique, but it might
+	not be effective because the questions are preplanned.
+
+5. Requirements are dynamic becuase they can change based on the client's needs.
+
+6. functional requirements are what the software actually needs to do while nonfunctional requirements are
+	how the software should look and other aesthetics. There is a such thing as a nonfunctional requirement
+	becuase the software should not only function but also be visually pleasing.
+	
+7. Top down analysis is looking at the big picture first, then analyzing smaller components. The example 
+	in the book essentially takes the opposite aproach.
+	
+8. Prototyping could be considered harmful becasue it can be expensive to implement and lead to insufficent 
+	analysis.
+	
+9. Team 2 is doing the better job becuase they are narrowing down the requirements to what the client actually
+	needs.
+	
+10. If you get the requirements wrong, it creates a domino effect resulting in a product that does not function 
+	properly.
